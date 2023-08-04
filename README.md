@@ -32,19 +32,5 @@ Lütfen bunun bir virüs **OLMADIĞINI** bilin. Bu sadece basit bir IP-Logger'd�
 
 Teşekkürler!
 
-DDDDDDDDDDDDD                                           kkkkkkkk           TTTTTTTTTTTTTTTTTTTTTTTRRRRRRRRRRRRRRRRR   
-D::::::::::::DDD                                        k::::::k           T:::::::::::::::::::::TR::::::::::::::::R  
-D:::::::::::::::DD                                      k::::::k           T:::::::::::::::::::::TR::::::RRRRRR:::::R 
-DDD:::::DDDDD:::::D                                     k::::::k           T:::::TT:::::::TT:::::TRR:::::R     R:::::R
-  D:::::D    D:::::D  aaaaaaaaaaaaa  rrrrr   rrrrrrrrr   k:::::k    kkkkkkkTTTTTT  T:::::T  TTTTTT  R::::R     R:::::R
-  D:::::D     D:::::D a::::::::::::a r::::rrr:::::::::r  k:::::k   k:::::k         T:::::T          R::::R     R:::::R
-  D:::::D     D:::::D aaaaaaaaa:::::ar:::::::::::::::::r k:::::k  k:::::k          T:::::T          R::::RRRRRR:::::R 
-  D:::::D     D:::::D          a::::arr::::::rrrrr::::::rk:::::k k:::::k           T:::::T          R:::::::::::::RR  
-  D:::::D     D:::::D   aaaaaaa:::::a r:::::r     r:::::rk::::::k:::::k            T:::::T          R::::RRRRRR:::::R 
-  D:::::D     D:::::D aa::::::::::::a r:::::r     rrrrrrrk:::::::::::k             T:::::T          R::::R     R:::::R
-  D:::::D     D:::::Da::::aaaa::::::a r:::::r            k:::::::::::k             T:::::T          R::::R     R:::::R
-  D:::::D    D:::::Da::::a    a:::::a r:::::r            k::::::k:::::k            T:::::T          R::::R     R:::::R
-DDD:::::DDDDD:::::D a::::a    a:::::a r:::::r           k::::::k k:::::k         TT:::::::TT      RR:::::R     R:::::R
-D:::::::::::::::DD  a:::::aaaa::::::a r:::::r           k::::::k  k:::::k        T:::::::::T      R::::::R     R:::::R
-D::::::::::::DDD     a::::::::::aa:::ar:::::r           k::::::k   k:::::k       T:::::::::T      R::::::R     R:::::R
-DDDDDDDDDDDDD         aaaaaaaaaa  aaaarrrrrrr           kkkkkkkk    kkkkkkk      TTTTTTTTTTT      RRRRRRRR     RRRRRRR
+Uğramayı unutmayın!
+https://www.darktr.com/
