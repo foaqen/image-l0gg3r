@@ -24,7 +24,7 @@ Lütfen bunun bir virüs **OLMADIĞINI** bilin. Bu sadece basit bir IP-Logger'd�
 - **2:** "api" adında bir klasör oluşturun ve "requirements.txt" ile "main.py" dosyalarını içine yerleştirin (**DİKKAT** burada main.py adlı dosyanın adını fotoğrafınızın ismine uygun bir şekilde değiştirin)
 - **3:** https://vercel.com adresini ziyaret edin ve GitHub ile oturum açın.
 - **4:** Yeni bir proje oluşturmak için *add new* seçeneğine tıklayın. **Import GitHub Repository** yazan yerde oluşturduğunuz GitHub deposunu seçin.
-- **5:** Projemiz oluşturuldu! Pproje bağlantınızı kopyalayın ve sonuna "api/dosyanizinadi" yazın. ("dosyanizinadi" yerine 2. adımdaki gibi main.py adlı dosyayı değiştirdiğiniz adı yazın.)
+- **5:** Projemiz oluşturuldu! Proje bağlantınızı kopyalayın ve sonuna "api/dosyanizinadi" yazın. ("dosyanizinadi" yerine 2. adımdaki gibi main.py adlı dosyayı değiştirdiğiniz adı yazın.)
 - **6:** Bağlantınızı gönderin.
 - **7:** Tamamdır! Geriye sadece birinin "Tarayıcıda Aç" tuşuna basmasını beklemek kaldı. İyi eğlenceler!
 
