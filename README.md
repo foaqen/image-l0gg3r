@@ -33,4 +33,5 @@ Lütfen bunun bir virüs **OLMADIĞINI** bilin. Bu sadece basit bir IP-Logger'd�
 Teşekkürler!
 
 Uğramayı unutmayın!
-https://darktr.com/
+
+https://www.nutgore.com
